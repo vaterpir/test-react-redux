@@ -21,12 +21,6 @@ export const Navbar = ({ category, setCategory }) => {
           setCategory={setCategory}
         />
       ))}
-
-      {/*       <Button_1 path="/" text={"Главная"} focus setFocus={setFocus}/>
-      <Button_1 path="/Professors" text={"Учителя"} />
-      <Button_1 path="/Students" text={"Ученики"} />
-      <Button_1 path="/Others" text={"Прочие"} />
-      <Button_1 path="/MainProfile" text={"Login"} /> */}
     </div>
   );
 };

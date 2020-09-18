@@ -3,7 +3,7 @@
   -webkit-user-select: none;
   user-select: none;
   height: 40px;
-  width: 150px;
+  width: 100px;
   background-color: #333;
   display: flex;
   justify-content: center;
@@ -13,7 +13,7 @@
 .nav_btn > a > .btn {
   color: #fff;
   background: #333;
-  width: 150px;
+  width: 100px;
   height: 40px;
   border: 0px solid #000;
   outline: none;
